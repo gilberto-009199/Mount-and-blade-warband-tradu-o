@@ -10,7 +10,7 @@
 
 ## Estado Atual
 
- + Interações 40%
+ + Interações
 	+ Hints 10%
 	+ UI 50%
 	+ UI main 30%
