@@ -1,6 +1,6 @@
 # Tradução para Mount and Blade
 
-	Tradução para português brasileiro
+   Tradução para português brasileiro
 
 ## Instalação
 
