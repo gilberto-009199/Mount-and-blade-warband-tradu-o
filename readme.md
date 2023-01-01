@@ -1,5 +1,7 @@
 # Tradução para Mount and Blade
 
+![Tela inicial](./warband.png)
+
    Tradução para português brasileiro
 
 ## Instalação
