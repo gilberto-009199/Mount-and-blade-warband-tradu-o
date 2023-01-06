@@ -51,7 +51,7 @@ str_town_is_abondened|O município não tem guarnição para se proteger.
 str_place_is_occupied_by_player|O lugar está ocupado por nossas próprias tropas.
 str_place_is_occupied_by_enemy|O lugar está ocupado através de tropas hostis.
 str_place_is_occupied_by_friendly|O lugar está ocupado por tropas aliadas.
-str_do_you_want_to_retreat|Você vai querer que você dobre?
+str_do_you_want_to_retreat|Você vai querer fugir?
 str_give_up_fight|Abandonar a luta?
 str_do_you_wish_to_leave_tutorial|Você deseja deixar o tutorial?
 str_do_you_wish_to_surrender|Você deseja o devolver?
@@ -568,7 +568,7 @@ str_npc10_signup_response_2|Para a reflexão, nós pusemos um ponto de honra par
 str_npc11_signup_response_2|Arrependido, senhora, mas nós organizamos tantos homens quanto nosso grupo permite isto a nós.
 str_npc12_signup_response_2|Uma batalha não está em nada semelhante para uma briga de bêbedos. Deveria se procurar talvez em outro lugar para o trabalho.
 str_npc13_signup_response_2|Ei bem, tudo para lhe falar, eu penso que um guerreiro obcecou pela glória põe o grupo inteiro em perigo.
-str_npc14_signup_response_2|Eu não quero provocar um motim em meus forças armadas. Eu lhe desejo um dia bom.
+str_npc14_signup_response_2|Eu não quero provocar um motim em meus forças armadas. Eu lhe desejo otimo dia.
 str_npc15_signup_response_2|Eu não preciso deste tipo de perícias no momento.
 str_npc16_signup_response_2|Ser honesto, eu préfèrerais alguém de alguns menos obcecado pelos furtos.
 str_npc1_payment|Eu serei você útil, {o cavalheiro/senhora}, você pode contar nisso. Há pouco uma última coisa antes de nós partíssemos. Ele/isto seria possível que você empreste a mim {reg3} os negadores? Eu estou envergonhado de dizer isto, mas eu me endividei um pouco aqui enquanto permanecendo nesta taverna nas alguns últimas semanas. E ele/isto é que os donos não me acreditam mais quando eu contar a eles que eu rolo em ouro. Você sabe, as coisas poderiam deteriorar se eles me vissem partindo de com você aqui sem ter os pagado antes.

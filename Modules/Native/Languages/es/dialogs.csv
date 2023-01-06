@@ -1781,7 +1781,7 @@ dlga_trainer_intro_4a:trainer_talk_combat|Bem, me pergunte o que você quer.
 dlga_trainer_intro_4b:trainer_practice_1|Bem. É bom para achar alguém não voltando da prática. Vejamos o que você sabe fazer.
 dlga_start:trainer_practice_1|Era uma briga boa.
 dlga_start:trainer_practice_1.1|Ha! A pessoa diria que você se debilitou um pequeno. Você não faz, até mesmo as derrotas têm o valor contanto que a pessoa puxa disto dos ensinos. Leve suas mentes. Não há outros meios para ganhar.
-dlga_start:trainer_talk|Oi. Pronto o arrastar um pequeno hoje?
+dlga_start:trainer_talk|Oi. Pronto para trinar hoje?
 dlga_trainer_pretalk:trainer_talk|Ai, você é de ataque o arrastar um pequeno?
 dlga_trainer_talk:trainer_practice_1|Eu não estaria contra uma pequena prática.
 dlga_trainer_talk:trainer_combat_begin|Primeiro, diga contente disto para mim na briga...
@@ -1807,9 +1807,9 @@ dlga_trainer_practice_1:novicemaster_are_you_ready|Você sucedeu todas as fases 
 dlga_trainer_practice_1:trainer_practice_1.1|Continue como que {o homem/menina jovem}. Graças a esta vitória você passa ao nível de acordo com a prática. Agora, seus adversários serão os lutadores regulares e nenhum da populaça colecionada na rua, esteja então em seus guardas.
 dlga_trainer_practice_1:trainer_practice_1.2|Jogado bem {o homem/menina jovem}. Bem-vindo na terceira fase da prática. Daqui em diante, seus adversários serão veterans de lutadores como os soldados e os lutadores regulares da arena. Estes meninos sabem alguma astúcia então continue defendendo.
 dlga_trainer_practice_1:trainer_practice_1.3|Você tem o c.ur de um campeão, {o homem/menina jovem} e você controla sua espada como se você fosse um disto. Agora, seus adversários serão os lutadores fortalecidos. Elas são a nata da nata dos guerreiros que eu arrastei. Se você tiver sucesso ultrapassando três entre eles para a continuação, você unirá os forças armadas deles/delas.
-dlga_trainer_practice_1:novicemaster_finish_training|Isso me faz a mim quente para o c.ur ver um talento como prometendo. Você sucedeu todas as partes da prática. Você pode falar para todo o mundo agora que você era acumulado pelo mestre da terra de prática.
-dlga_novicemaster_finish_training:novicemaster_finish_training_2|Agradeça você domina.
-dlga_novicemaster_finish_training_2:close_window|Eu lhe desejo sorte pelos torneios. E, não esqueça, tão a toda hora, você quer praticar e o melhorar à espada, venha e diga a mim.
+dlga_trainer_practice_1:novicemaster_finish_training|Isso me faz sentir entusiasmado para o potencial de um talento como seu. Você compeltou todas as partes da prática. Você pode falar para todo o mundo agora que você e o protegido do mestre da terra de prática.
+dlga_novicemaster_finish_training:novicemaster_finish_training_2|Agradeço, você é bom.
+dlga_novicemaster_finish_training_2:close_window|Eu lhe desejo sorte pelos torneios. E, não esqueça, de praticar e  melhorarar sua espada. Venha treinar denovo comigo algum dia.
 dlga_trainer_practice_1:novicemaster_are_you_ready.1|Seu adversário próximo a pessoa será um {s9}. Você tem que ganhar {reg8} briga adicional seguidos passar à fase seguinte. Você está pronto?
 dlga_novicemaster_are_you_ready:novicemaster_ready_to_fight|Sim eu estou pronto.
 dlga_novicemaster_ready_to_fight:close_window|Vá lá então. Boa sorte.
@@ -2278,7 +2278,7 @@ dlga_production_settings:close_window.7|Eu aceito esta oferta. Por favor venda e
 dlga_production_settings:close_window.8|Perfeito. É no momento tudo.
 dlga_production_settings:close_window.9|Como quererá você, {o senhor/senhora}. Era uma honra para trabalhar para você.
 dlga_start:battle_reason_stated.1|Compromissos ou você morrerão. Faça sua escolha.
-dlga_battle_reason_stated:close_window|Eu não tenho medo de você. Eu o combaterei.
+dlga_battle_reason_stated:close_window|Eu não tenho medo de você. Vamos a batalha.
 dlga_start:free|Oi. O que posso fazer eu para você?
 dlga_free:view_char_requested|Me fale de você.
 dlga_view_char_requested:view_char|Muito bem, escute isso...
