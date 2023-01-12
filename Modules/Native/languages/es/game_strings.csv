@@ -978,9 +978,9 @@ str_comment_intro_noble_cunning|Eu vejo que você leva uma bandeira nobre, mas e
 str_comment_intro_noble_sadistic|Eu vejo que você leva uma bandeira nobre, mas eu não reconheço este emblema. Talvez que você é {a criança/menina ilegítima de filho a criança ilegítima} de um destes ladrões de gado cheio de suficiência? Ou você roubou isto talvez?
 str_comment_intro_noble_goodnatured|Eu vejo que você leva uma bandeira da nobreza, mas eu não reconheço o emblema. Perdoe minha ignorância, {o cavalheiro/senhora}! É um prazer para o conhecer.
 str_comment_intro_noble_upstanding|Eu vejo que você leva uma bandeira nobre, mas eu não reconheço este emblema. Você é provavelmente aqui em indagação de fortuna e glória. Tão tal é o caso, eu só lhe pedirei que mostre evidência de clemência com respeito às almas pobres insinuou na guerra apesar deles.
-str_comment_intro_common_liege|Pertença você talvez à classe popular, mas saiba que eu sempre estou à procura de elementos bons que poderão lutar uma vez a meu serviço que eles terão provado a mim que eles merecem minha confiança.
+str_comment_intro_common_liege|Talves você estejá feliz com seu estado atual, mas saiba que eu sempre estou à procura de bons soldados que podem lutar sobe o meu serviço, e recebendo a minha confiança.
 str_comment_intro_common_martial|Não é talvez você de sangue nobre, mas até mesmo {um cidadão, se ele/isto parece valoroso/um cidadão, se ela/isto parece valorosa}, pode se tornar alguém.
-str_comment_intro_common_badtempered|Se você tiver algo que me falar, faça depressa, porque eu não tenho o tempo para tagarelar com soldado de baixa fortuna de chão.
+str_comment_intro_common_badtempered|Se você tiver algo para me dizer, faça depressa, porque eu não tenho tempo para tagarelar com soldados de baixa patente.
 str_comment_intro_common_pitiless|Você parece um mercenário. Novamente um pássaro de presa vindo ficar mais rico na parte de trás do destituído deste país.
 str_comment_intro_common_cunning|Ei bem... Eu não ouvi para já falar de você, mas eu tenho a impressão que você pudesse se tornar bem alguém, um dia ou o outro.
 str_comment_intro_common_sadistic|Em tempo normal, eu decido a garganta dos cidadão que têm a bochecha para entrar em minha presença sem foi convidado lá. Mas hoje, eu sou de bom humor.
@@ -1932,7 +1932,7 @@ str_bandits_attacked_a_party_on_the_roads_so_a_bounty_is_probably_available|Os b
 str_total_additions_reg4|Adições totais: {reg4}
 str_total_subtractions_reg4|Subtrações totais: {reg4}
 str_s11_relocates_to_s10|{s11} move {s10}.
-str__i_must_attend_to_this_matter_before_i_worry_about_the_affairs_of_the_realm|Eu tenho que levar ao cuidado deste negócio antes de me preocupar sobre esses de reino.
+str__i_must_attend_to_this_matter_before_i_worry_about_the_affairs_of_the_realm|Eu tenho que cuidar com cuidado deste negócio antes de me preocupar sobre esses de reino.
 str_the_other_matter_took_precedence|O outro negócio era prioridade.
 str_i_cannot_leave_this_fortress_now_as_it_is_under_siege|Eu não posso deixar esta fortaleza agora, porque ela/isto é sitiada.
 str_after_all_we_are_under_siege|Afinal de contas, nós somos sitiados.
@@ -1953,7 +1953,7 @@ str_i_intend_to_lead_our_forces_out_to_engage_the_enemy|Eu pretendo dirigir noss
 str_i_dont_have_enough_troops_and_i_need_to_get_some_more|Eu falto tropas, eu preciso um pouco mais.
 str_i_am_running_low_on_troops|Eu estou com falta de tropas.
 str_we_are_following_your_direction|Nós o seguimos.
-str_i_need_to_make_preparations_for_your_wedding|Eu tenho que levar ao cuidado das preparações de seu matrimônio.
+str_i_need_to_make_preparations_for_your_wedding|Eu tenho que cuidar das preparações de seu matrimônio.
 str_after_all_i_need_to_make_preparations_for_your_wedding|Afinal de contas, eu tenho que levar ao cuidado das preparações de seu matrimônio.
 str_i_am_heading_to_the_site_of_our_wedding|Eu rendo à cena de seu matrimônio.
 str_after_all_we_are_soon_to_be_wed|Afinal de contas, você será logo {a casado/noiva}!
@@ -2233,7 +2233,7 @@ str_unfortunately_s12s_grip_is_fairly_strong_until_we_can_shake_it_we_may_have_t
 str_unfortunately_s12s_grip_is_very_strong_unless_we_can_loosen_it_it_may_be_difficult_to_find_allies|Infelizmente, o predomínio de {s12} é muito forte. Se nós não tivermos sucesso soltando isto, nós teremos dificuldade que acha alguns aliados.
 str_playername_come_to_plague_me_some_more_have_you|{playername}... Você vem me molestar novamente?
 str_ah_it_is_you_again|Ai! É novamente você...
-str_well_playername|Ei bem, {playername}
+str_well_playername|Ei, {playername}
 str_flagon_of_mead|garrafa de hidromel
 str_skin_of_kumis|pele de kumis
 str_mug_of_kvass|assalte de kvass

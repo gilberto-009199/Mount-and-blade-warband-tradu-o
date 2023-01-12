@@ -115,7 +115,7 @@ menu_permanent_damage|{s0}
 mno_s0|{s0}
 menu_pre_join|VVocê está no meio de uma batalha entre {s2} e {s1}. Você decide ...
 mno_pre_join_help_attackers|Você se mobiliza para ajudar a {s2}.
-mno_pre_join_help_defenders|Concorra a ajuda {s1}.
+mno_pre_join_help_defenders|Ir ajudar a {s1}.
 mno_pre_join_leave|Não se envolver.
 menu_join_battle|Você ajuda {s2} a enfrentar. {s1}. Você tem {reg10} ssoldado (s) que estão lutando contra {reg11} soldadost(s) inimigos. 
 mno_join_attack|começar Ataque.
@@ -417,7 +417,7 @@ menu_captivity_end_propose_ransom|Você gasta muito tempo no úmido e escuro da 
 mno_captivity_end_ransom_accept|Para aceitar a oferta.
 mno_captivity_end_ransom_deny|Recusar a sua oferta e esperar melhor.
 menu_captivity_castle_remain|Os dias passam na escuridão de sua caverna. Você passá-las da melhor maneira possível, sofrendo agressões físicas e xingamentos dos guardas, observando o seu corpo desnutrido murchar mais ...
-menu_kingdom_army_quest_report_to_army|{s8} Permite que você sabe que ele quer que você se juntar à sua nova campanha militar. Você deve tomar pelo menos {reg13} soldados do exército e você recebe a fim de trazer mais homens em devido tempo, se você não tem o suficiente.
+menu_kingdom_army_quest_report_to_army|{s8} quer que você se junte à sua nova campanha militar. Você deve tomar pelo menos {reg13} soldados do exército e se não tiver deve juntar mais homens no tempo devido.
 menu_kingdom_army_quest_messenger|{s8} Permite que você sabe que ele quer falar com você sobre uma tarefa que ele irá dizer-lhe. Ele pede-lhe para vir vê-lo mais rapidamente possível.
 menu_kingdom_army_quest_join_siege_order|{s8} permite que você saiba que você deve juntar-se o cerco de {s9} para preparar um ataque geral. Seus homens devem ter {s9} a qualquer preço.
 menu_kingdom_army_follow_failed|Você tem desobedecido a ordens e não a seguir {s8}. m um acesso de raiva, que foram excluídas do exército e envia um alerta tão grave que suas ações não estará pronto para ser esquecido.

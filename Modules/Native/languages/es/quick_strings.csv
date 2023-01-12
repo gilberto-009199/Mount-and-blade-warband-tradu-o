@@ -366,9 +366,9 @@ qstr_we_have_become_a_sig|Nós nos tornamos uma grande potência e temos as noss
 qstr_we_are_winning_the_w|Nós vamos ganhar a guerra, mas nossos inimigos continuarão a resistir.
 qstr_we_are_on_the_verge_|Estamos à beira de ganhar. Os inimigos ainda não representam uma ameaça, mas nós ainda caçá-los.
 qstr_{playername}_when_we|{playername}, quando começamos nossa longa jornada, poucas pessoas tiveram a coragem de me ajudar. E ainda menos dispostos a arriscar suas vidas por minha causa. No entanto, não hesitou um momento de jogá-lo em meus inimigos. Tivemos muitas aventuras juntos e aconteceu de eu estar à beira do desespero. Mas com a ajuda de Deus, conquistamos. Agora é hora de eu deixar a sua empresa e levar o que é direito meu. Agora, eu estou trabalhando com a pesada responsabilidade que é executado {s3}. Embora os testes ainda pela frente e conto com sua ajuda para superá-los. Escusado será dizer que eu sempre considero meu vassalo mais leal.
-qstr_I_am_{s4}_the_ruler_|Eu {s4}, Regente de {s6}
-qstr_I_am_{s4}_a_vassal_o|Eu {s4}, vassalo du {s6}
-qstr_{s9}{reg5?_and_the_l|{s9}{reg5? E o senhor {s8}.:.
+qstr_I_am_{s4}_the_ruler_|Eu sou {s4}, Regente de {s6}
+qstr_I_am_{s4}_a_vassal_o|Eu sou {s4}, vassalo do {s6}
+qstr_{s9}{reg5?_and_the_l|{s9}{reg5? E o senhor de {s8}.:.
 qstr_Your_mission_is_comp|Sua missão está completa, {s9} quer que você siga os seus exércitos até novo aviso.
 qstr_{s13}_asked_you_to_g|{s13} pediu-lhe para reunir {reg3} bovinos e entregar-lhe..
 qstr_{s9}_asked_you_to_sc|{s9} lhe pediu para ir explorar {s13}, {s14} e {s15} e depois fazer-lhe o seu relatório.

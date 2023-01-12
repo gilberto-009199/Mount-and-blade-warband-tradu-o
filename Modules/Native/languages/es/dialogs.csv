@@ -698,7 +698,7 @@ dlga_lord_ask_pardon_2:lord_ask_pardon_tribue_deny|Eu temo que não podem pagar 
 dlga_lord_ask_pardon_tribue_accept:close_window|Excelente, {playername}. Vou usar essas moedas para acalmar aqueles que poderiam se opor a seu perdão, e estou certo de que o boato se espalhou que você já não são um inimigo de {s4}. 
 dlga_lord_ask_pardon_tribue_deny:lord_pretalk|Portanto, não há nada que eu possa fazer por você, {playername}. Sem dinheiro, sem perdão.
 dlga_lord_talk:lord_active_mission_1|No que diz respeito à tarefa que me foi confiada ...
-dlga_lord_talk:lord_request_mission_ask|Você tem alguma tarefa atribuída a mim?
+dlga_lord_talk:lord_request_mission_ask|Você tem alguma tarefa para a mim?
 dlga_lord_talk:lord_ask_enter_service|{s66}, estou aqui para oferecer a minha espada em sinal de vassalagem!
 dlga_lord_talk:lord_ask_enter_service.1|{s66}, eu iria jurar fidelidade e luta para defender sua honra.
 dlga_lord_talk:lord_ask_leave_service|{s66}, eu seria liberado do meu juramento para você.
@@ -743,9 +743,9 @@ dlga_lord_give_order_disband_army_2:lord_give_order_disband_army|Sim. Nós não 
 dlga_lord_give_order_disband_army_2:lord_pretalk|Pensando bem, seria melhor ficar juntos agora.
 dlga_lord_give_order_disband_army:lord_pretalk|Ok, eu vou deixar todo mundo sabe que eles estão livres de todas as obrigações.
 dlga_lord_talk:lord_talk_ask_something|tenho algo a lhe perguntar.
-dlga_lord_talk_ask_something:lord_talk_ask_something_2|Sim? O que é isso?
+dlga_lord_talk_ask_something:lord_talk_ask_something_2|Sim? O que quer saber?
 dlga_lord_talk_ask_something_2:lord_talk_ask_location|Eu quero saber onde encontrar alguém.
-dlga_lord_talk_ask_something_2:lord_tell_objective|O que você faz, você e seus homens, para o momento?
+dlga_lord_talk_ask_something_2:lord_tell_objective|O que você e seus homens, estão fazendo no momento?
 dlga_lord_talk_ask_something_2:lord_talk_ask_about_strategy|Qual é o reino?
 dlga_lord_talk_ask_something_2:lord_talk_ask_about_war|Como está a guerra?
 dlga_lord_talk_ask_something_2:lord_marriage_permission|{s19}
@@ -768,7 +768,7 @@ dlga_lord_courtship_permission:lord_pretalk.1|{s14}
 dlga_lord_courtship_permission:lord_pretalk.2|{s12}
 dlga_lord_talk_ask_something_2:lord_talk_ask_marriage_1|Quais são as condições para concretizar uma aliança duradoura com a sua casa?
 dlga_lord_talk_ask_something_2:lord_pretalk|Esqueça.
-dlga_lord_talk_ask_location:lord_talk_ask_location_2|Bem, é possível que eu possa responder-lhe. Que a pessoa que você fala?
+dlga_lord_talk_ask_location:lord_talk_ask_location_2|Bem, é possível que eu possa responder-lhe. Quem esta procurando?
 dlga_lord_talk_ask_location_2:lord_talk_ask_location_3|{s1}
 dlga_lord_talk_ask_location_2:lord_pretalk|Esqueça.
 dlga_lord_talk_ask_location_3:lord_pretalk|{s1}
@@ -817,7 +817,7 @@ dlga_lord_talk:lord_prison_break_chains|Eu vou te tirar daqui.
 dlga_lord_prison_break_chains:close_window|Deus obrigado, vocês são! Mas eu não vou a lugar nenhum com estas cordas não aos pés. Você precisa roubar a chave para o guarda.
 dlga_lord_tell_objective:lord_pretalk|O que estou fazendo? Você só não vê isso? Eu sou um prisioneiro aqui!
 dlga_lord_tell_objective:lord_pretalk.1|Eu não tenho homem sob o meu comando agora.
-dlga_lord_tell_objective:lord_pretalk.2|Nós descansar agora à {s1}. {s14}{s15}
+dlga_lord_tell_objective:lord_pretalk.2|Nós estamos descansando agora em {s1}. {s14}{s15}
 dlga_lord_tell_objective:lord_pretalk.3|Estamos actualmente a rota para {s1}. {s14}{s15}
 dlga_lord_tell_objective:lord_pretalk.4|Estamos actualmente a recrutar soldados de {s1}. {s14}{s15}
 dlga_lord_tell_objective:lord_pretalk.5|Estamos actualmente a procurar o inimigo ao redor de {s1}. {s14}{s15}
@@ -871,15 +871,15 @@ dlga_lord_ask_enter_service_female_solution_marriage:lord_ask_enter_service_fema
 dlga_lord_ask_enter_service_female_solution_competitor:lord_ask_enter_service_female_response|Oh, talvez você encontre alguém realmente desesperado ... Mas então eu não acho que seria uma série de feudos. Tem mais perguntas?
 dlga_lord_ask_enter_service_female_solution_capture:lord_ask_enter_service_female_response|Bem, neste caso, dependendo das circunstâncias, eu poderia dar ao luxo de manter. Tem mais perguntas?
 dlga_lord_ask_enter_service:lord_give_oath_1|Fico feliz em falar com você {valente de armas/bravo guerreiro} e você é um bom líder de tropas, {playername}. Eu ficaria feliz de ter a sua espada no meu serviço e dar-lhe o seu vassalo, se você jurar homenagem.
-dlga_lord_ask_enter_service:lord_pretalk.1|Ainda tem para me mostrar que você é um comandante competente, {playername}. Retorne a sua espada contra o inimigo e me provar que você é digno de ser meu vassalo. Então, podemos falar mais.
+dlga_lord_ask_enter_service:lord_pretalk.1|Ainda tem para me mostrar que você é um comandante competente, {playername}. Retorne a sua espada contra o inimigo e me prove que você é digno de ser meu vassalo. Então, podemos falar mais.
 dlga_lord_give_oath_1:lord_give_oath_2|Eu estou pronto, {s65}.
 dlga_lord_give_oath_1:lord_give_oath_give_up|Perdoe-me, {s65}, eu tenho que pensar mais ...
 dlga_lord_give_oath_give_up:lord_pretalk|Demore o tempo que você precisa, minha senhora.
 dlga_lord_give_oath_2:lord_give_oath_3|Boas. Assim, repetir as palavras de seu juramento de mim: fazer um juramento de homenagem como regente legítimo de {s41}.
-dlga_lord_give_oath_3:lord_give_oath_4|Eu tomei o juramento de homenagem como regente legítimo de {s41}.
+dlga_lord_give_oath_3:lord_give_oath_4|Eu juro vassalagem para regente legítimo de {s41}.
 dlga_lord_give_oath_3:lord_give_oath_give_up|Desculpe-me, {reg65?madame:sir}. Mas eu acho que tem que pensar.
 dlga_lord_give_oath_4:lord_give_oath_5|Eu fico {fiel e dedicado / leais e dedicados} até meu último suspiro ...
-dlga_lord_give_oath_5:lord_give_oath_6|Eu fico {ffiel e dedicado / leais e dedicados} até meu último suspiro ...
+dlga_lord_give_oath_5:lord_give_oath_6|Eu fico {fiel e dedicado / leais e dedicados} até meu último suspiro ...
 dlga_lord_give_oath_5:lord_give_oath_give_up|{reg65?Madame:Ssir}, Senhor, posso pedir-lhe um pouco de tempo para pensar?
 dlga_lord_give_oath_6:lord_give_oath_7|... e eu estou do seu lado para combater os inimigos se você precisar da minha espada.
 dlga_lord_give_oath_7:lord_give_oath_8|... e eu estou do seu lado para combater os inimigos se você precisar da minha espada.
@@ -1244,7 +1244,7 @@ dlga_lady_conclude_relationship_confirm_yes:close_window|Adeus, {playername}. N�
 dlga_lady_conclude_relationship_confirm_no:close_window|Neste caso, nós veremos o que o futuro nos reserva bem.
 dlga_lady_generic_mission_succeeded:lady_pretalk|Sempre é uma honra para o servir, {s65}.
 dlga_lady_premeet:lady_meet|Eu sou {playername}.
-dlga_lady_premeet:lady_meet.1|Eu sou chamado {playername}. Para seu serviço.
+dlga_lady_premeet:lady_meet.1|Eu sou chamado de {playername}. Ao seu serviço.
 dlga_lady_meet:lady_meet_end|Claro que. O conhecer era para mim um imenso prazer.
 dlga_lady_meet:lady_meet_end.1|{playername}? Eu não acredito para ter ouvido para já falar de você.
 dlga_lady_meet_end:lady_talk|Eu estou a ponto de me retirar algumas vezes, mas me terei a oportunidade talvez discutir depois...
@@ -1490,7 +1490,7 @@ dlga_castle_gate_open:close_window.4|Meu Deus {s2} não queira o ver aqui. Agora
 dlga_start:ally_thanks_meet|Nós não nos apresentamos como veste. Você há pouco salvou por cima lá me vida e eu fazemos nem mesmo saiba seu nome...
 dlga_start:ally_thanks_meet.1|Sua ajuda realmente era a estranha bem-vinda. Eu sou chamado {s1}. Qual é seu nome?
 dlga_start:ally_thanks_meet.2|Obrigado por sua ajuda estrangeira. Nós não nos apresentamos porém, como era necessário, isto não é? Qual é seu nome?
-dlga_ally_thanks_meet:ally_thanks_meet_2|Eu sou chamado {playername}.
+dlga_ally_thanks_meet:ally_thanks_meet_2|Eu sou chamado de {playername}.
 dlga_ally_thanks_meet_2:close_window|Muito feliz do conhecer {playername}. Eu sou chamado {s1} e eu serei eternamente grato a você. Se eu posso ser você útil em tudo que que é, me deixe saber...
 dlga_ally_thanks_meet_2:close_window.1|Se encantado {playername}. Eu sou grato a você para o que você há pouco fez. Eu espero aquele dia eu acharei um meios para lhe fazer o semelhante.
 dlga_ally_thanks_meet_2:close_window.2|Se encantado {playername}. Eu sou {s1}. Obrigado por sua ajuda, eu espero que nós nos encontraremos novamente.
@@ -1729,7 +1729,7 @@ dlga_minstrel_daughter_father:minstrel_daughter_father_2|Ele/isto às vezes cheg
 dlga_minstrel_daughter_father_2:minstrel_prequestions|Porém, eventualmente a maioria das meninas conforma por escolha dos pais deles/delas. Para eles, a família é tudo e raro é esses que têm coragem para se opor/eles disto para homem de um que eles quase não sabem. Possa eles anseiam por homem de um, mas concordar para se casar outro disto. E sem amor trágico que se cantaria?
 dlga_minstrel_player_role:minstrel_player_role_2|Claro que! Os Deuses de Calradia prendem uma importância grande à linhagem, mas ao término da conta, as terras e dinheiro pesam mais que os antepassados. Até mesmo um estranho, tão longo como ele/isto se aparece à altura, será considerado por número bom de pais como um cabo bonito.
 dlga_minstrel_player_role_2:minstrel_player_role_3|Você deveria competir com muitos outros Deuses de seu reino, mas esses que têm a vantagem são esses que conhecem estas meninas desde a infância, terá sido igual cônjuge escolhido pelas mães e tias cheio de discernimento. Algumas meninas são fascinadas pelos estranhos, mas optarão finalmente para esses que estão familiarizado a eles.
-dlga_minstrel_player_role_3:minstrel_prequestions|E sabe que você poderá ter o c.ur quebrado disto. Mas entrar na arena do amor como sendo amedrontado para ter o c.ur quebrado volta entrar no campo de batalha enquanto sendo amedrontado das setas hostis. Evidência de espetáculo de coragem, menospreze a demissão e você poderá levar isto fora.
+dlga_minstrel_player_role_3:minstrel_prequestions|E sabe que você poderá ter o coração quebrado. Mas entrar na arena do amor como sendo amedrontado para ter o coração quebrado volta entrar no campo de batalha enquanto sendo amedrontado das setas hostis. Evidência de espetáculo de coragem, menospreze a demissão e você poderá levar isto fora.
 dlga_minstrel_player_role:minstrel_female_player_3|Mrs. Eu vou falar honestamente com você. A maioria dos Deuses deste olhar rural porque uma esposa manteve à pele como branco a partir de neve e sua pele está queimada pelo sol. Eles querem uma esposa cuja voz é macia como sinos e sua voz é enrocamento por meio de ordenar os homens à briga. Quem mais são, os Deuses de Calradia apreciam os poemas no amor, queira alguns herdeiros e poucas mulheres podem ir com um cavalo e podem lutar com crianças.
 dlga_minstrel_female_player_3:minstrel_prequestions|Mas todos os Deuses não são como convencional. Nós, os poetas, nós falamos de guerreiros e chasseuses, de mulheres que seguiram o modo deles/delas sem sacrificar a sorte deles/delas para cair os amantes. Eu não vou lhe falar que ele/isto será fácil a você achar um marido que aceitará sua vida, mas sabe que não é impossível.
 dlga_minstrel_courtship_questions_2:minstrel_spouse_benefits|Que vantagem o fato para procurar {uma esposa/um cônjuge} ele apresenta?
@@ -2133,9 +2133,9 @@ dlga_arena_training_melee_intro_reward:arena_training_melee_intro_2|Realmente, h
 dlga_arena_training_melee_explain_reward:arena_master_melee_pretalk|Alguns dos homens ricos do município oferecem algumas recompensas aos lutadores que mostram evidência de uma inteligência grande à briga. Se você pode bater {reg1} os adversários antes de se desmoronar, você ganhará {reg11} denários. Você adquirirá {reg12} denários se você pavimenta pelo menos {reg2} os adversários, {reg13} denários se você pode derrotar {reg3} os adversários e {reg14} denários se você pode sobreviver para triunfar de suficientemente muito tempo {reg4} os adversários. Se você tem sucesso sendo {o último homem/o último lutador} estando de pé, você ganhará a recompensa mais alta, {reg15} denários. É apetitoso, isto não é?
 dlga_arena_training_melee_intro_2:arena_training_melee_intro_3|Eu sou capaz como lá participar?
 dlga_arena_training_melee_intro_3:arena_master_melee_talk|Ai ai. Claro que, ele/isto seria estúpido de sua parte não fazer isto. As brigas para o corpo para corpo estão abertas a tudo. Na realidade, uma briga acontecerá logo. Você pode ir lá e você lá escrever abaixo se você deseja isto.
-dlga_start:arena_master_intro_1|Oi. Pareça novo a você no canto. Como você se chama?
+dlga_start:arena_master_intro_1|Oi. Você é novo por aqui. Como você se chama?
 dlga_arena_master_intro_1:arena_master_intro_2|Eu sou chamado {playername}.
-dlga_arena_master_intro_2:arena_master_pre_talk|Se encantado {playername}. Eu sou o mestre dos torneios aqui para {s1}. Fale a mim se você desejar participar das brigas.
+dlga_arena_master_intro_2:arena_master_pre_talk|Estou encantado {playername}. Eu sou o mestre dos torneios aqui para {s1}. Fale a mim se você desejar participar das brigas.
 dlga_start:arena_master_fight_result|.
 dlga_arena_master_fight_result:arena_master_pre_talk|Ai ai, é um dano bonito que você tem lá. Mas você não faz; todo o mundo acaba se levando/eles um dia um debulha ou o outro. O importante é se levantar, se espanar/eles e continuar lutando. É o que os campeões fazem.
 dlga_arena_master_fight_result:arena_master_pre_talk.1|Ei, você teve sucesso esmagando {reg8} os adversários. Não dor. Mas não trará nenhuma recompensa para você. Agora, se eu fosse você, eu devolveria lá e eu mostraria a todo o mundo o que eu sei fazer...
@@ -2145,11 +2145,11 @@ dlga_arena_master_fight_result:arena_master_pre_talk.4|Seu benefício era excepc
 dlga_arena_master_fight_result:arena_master_pre_talk.5|Era uma briga sagrada {playername}. Seus movimentos são muito bons e suas táticas são excelentes. E você ganhou uma recompensa de {reg10} denários ter aturdido {reg8} os adversários.
 dlga_arena_master_fight_result:arena_master_pre_talk.6|Parabéns patrocinam! Sua briga permanecerá gravada no memorials! Você teve sucesso estando para cima o último lutador. E claro que, você levou de volta a recompensa mais alta: {reg10} denários.
 dlga_start:arena_master_pre_talk|Oi {playername}. É bom para o ver novamente.
-dlga_arena_master_pre_talk:arena_master_talk|O que gostaria você para fazer?
+dlga_arena_master_pre_talk:arena_master_talk|O que gostaria de fazer?
 dlga_arena_master_talk:arena_master_melee_pretalk|Sobre as brigas para o corpo para corpo...
 dlga_arena_master_talk:arena_master_ask_tournaments|Haverá um torneio nos municípios vizinhos?
 dlga_arena_master_talk:close_window|Eu tenho que partir agora. Adeus.
-dlga_arena_master_ask_tournaments:arena_master_talk|{reg2?Nenhum torneio acontecerá no imediato.:{reg1?Do torneio de vont:Un de torneios vai} acontecer para {s15}.}
+dlga_arena_master_ask_tournaments:arena_master_talk|{reg2?Nenhum torneio acontecerá no imediato.:{reg1?O torneio deve :Os torneios vam } acontecer em {s15}.}
 dlga_arena_master_melee_pretalk:arena_master_melee_talk|Uma briga acontecerá logo aqui. Você pode ir participar lá e lá se você quiser.
 dlga_arena_master_melee_talk:close_window|Bem. É o que eu vou fazer.
 dlga_arena_master_melee_talk:arena_master_melee_reject|Obrigado. Mas eu vou esperar por um pequeno, que meus danos curam.
