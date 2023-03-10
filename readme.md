@@ -16,4 +16,4 @@
 	+ Hints 10%
 	+ UI 50%
 	+ UI main 30%
- + Dialogos e Quest's 8%
+ + Dialogos e Quest's 80%
