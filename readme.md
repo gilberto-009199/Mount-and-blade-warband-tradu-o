@@ -15,7 +15,7 @@
 ## Estado Atual
 
  + Interações
-	+ Hints 10%
-	+ UI 50%
-	+ UI main 30%
- + Dialogos e Quest's 80%
+	+ Hints 100%
+	+ UI 95%
+	+ UI main 99%
+ + Dialogos e Quest's 99%
