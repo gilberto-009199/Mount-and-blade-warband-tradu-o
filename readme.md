@@ -1,3 +1,5 @@
+[![DOWNLOAD](./downlaod-v0.2.svg)](https://github.com/gilberto-009199/Mount-and-blade-warband-tradu-o/archive/refs/tags/v1.zip)
+
 # Tradução para Mount and Blade
 
 ![Tela inicial](./warband.png)
